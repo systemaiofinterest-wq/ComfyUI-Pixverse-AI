@@ -1,4 +1,6 @@
 # ComfyUI-Pixverse-AI
+# Creado por IA(Sistema de Interes)
+# 1. Visit [Youtube Channel](https://www.youtube.com/@IA.Sistema.de.Interes)
 
 Este es un entorno de trabajo no oficial, que esta diseñado para ahorras costos de generacion de videos por IA, utilizando la latafroma Pixverse, como todos sabemos el costo de generar un video tilizando la API
 
