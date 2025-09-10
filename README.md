@@ -20,3 +20,15 @@ Resolución | Pixverse (Créditos) | Costo USD (Plataforma) | API ComfyUI (USD) 
 540p       | 30 créditos         | $0.25                  | $0.45             | +80.0%                        | Plataforma
 720p       | 40 créditos         | $0.33                  | $0.60             | +81.8%                        | Plataforma
 1080p      | 80 créditos         | $0.67                  | $1.20             | +79.1%                        | Plataforma
+
+
+📌 Cómo se calcula el margen de costo por video:
+Margen (%) = [(Precio API - Precio Plataforma) / Precio Plataforma] × 100 
+
+Ejemplo para 360p:
+→ ($0.45 - $0.17) / $0.17 = 1.647 → +164.7% más caro usar la API
+
+💡 Interpretación:
+Usar la API de ComfyUI casi triplica el costo en 360p frente a usar créditos directos.
+En resoluciones más altas, el margen se mantiene alto: ~80% más caro en promedio.
+Esto es crítico si generas muchos videos: el ahorro escala rápido.
