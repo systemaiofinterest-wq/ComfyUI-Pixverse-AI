@@ -38,7 +38,7 @@ Esto es crítico si generas muchos videos: el ahorro escala rápido.
 
 1. Clone the repository:
 ```bash
-cd ComfyUI/custom_nodes/
+cd custom_nodes/
 git clone https://github.com/systemaiofinterest-wq/ComfyUI-Pixverse-AI.git
 cd ComfyUI-Pixverse-AI
 pip install -r requirements.txt
