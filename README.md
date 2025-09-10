@@ -32,3 +32,13 @@ Ejemplo para 360p:
 Usar la API de ComfyUI casi triplica el costo en 360p frente a usar créditos directos.
 En resoluciones más altas, el margen se mantiene alto: ~80% más caro en promedio.
 Esto es crítico si generas muchos videos: el ahorro escala rápido.
+
+
+1. Clone the repository:
+```bash
+cd ComfyUI/custom_nodes/
+git clone https://github.com/systemaiofinterest-wq/ComfyUI-Pixverse-AI.git
+cd ComfyUI-Pixverse-AI
+pip install -r requirements.txt
+```
+
